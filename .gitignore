@@ -1,0 +1,23 @@
+# Compiled output
+*.o
+*.out
+*.exe
+main
+
+# Debugging symbols
+*.dSYM/
+*.su
+
+# Build directories
+build/
+bin/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
